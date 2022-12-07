@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-npm install
+docker-compose up -d
 ```
 
 ### Compiles and hot-reloads for development

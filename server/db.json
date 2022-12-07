@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Test User",
+      "age": 45,
+      "password": "password",
+      "email": "email@email.com",
+      "location": "Moscow",
+      "gender": "man"
+    }
+  ]
+}
